@@ -5,10 +5,10 @@ In this project, I'll demonstrate how to analyze IMDb ratings using Python. We'l
 Requirements:
 Make sure you have the following libraries installed:
 
-NumPy
-pandas
-Matplotlib
-Seaborn
+### NumPy
+### pandas
+### Matplotlib
+### Seaborn
 
 ## Dataset
 For this analysis, we'll use a dataset containing IMDb movie ratings. You can download it from https://www.kaggle.com/code/harunshimanto/pandas-with-data-science-ai/input. 
